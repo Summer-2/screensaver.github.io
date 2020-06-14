@@ -1,1 +1,1 @@
-# screensaver.github.io/index.html
+# screensaver.github.io/
