@@ -17,16 +17,16 @@ var videoSources = [
     "video/video1.mp4", // 11:00
     "video/video2.mp4", // 12:00
     "video/video3.mp4", // 13:00
-    "video/video4.mp4", // 14:00
-    "video/video4.mp4", // 15:00
-    "video/video5.mp4", // 16:00
-    "video/video6.mp4", // 17:00
-    "video/video6.mp4", // 18:00
-    "video/video7.mp4", // 19:00
-    "video/video8.mp4", // 20:00
-    "video/video8.mp4", // 21:00
-    "video/video9.mp4", // 22:00
-    "video/video9.mp4" // 23:00
+    "https://www.youtube.com/embed/7BQ_65HptQM?autoplay=1&loop=1", // 14:00
+    "https://www.youtube.com/embed/iJ1ImABsvFQ?autoplay=1&loop=1", // 15:00
+    "https://www.youtube.com/embed/iJ1ImABsvFQ?autoplay=1&loop=1", // 16:00
+    "https://www.youtube.com/embed/fGTm3e3_KrA?autoplay=1&loop=1", // 17:00
+    "https://www.youtube.com/embed/fGTm3e3_KrA?autoplay=1&loop=1", // 18:00
+    "https://www.youtube.com/embed/FmbKZIcMYTg?autoplay=1&loop=1", // 19:00
+    "https://www.youtube.com/embed/q8zkKWaQDD0?autoplay=1&loop=1", // 20:00
+    "https://www.youtube.com/embed/q8zkKWaQDD0?autoplay=1&loop=1", // 21:00
+    "https://www.youtube.com/embed/Rh8x40Vu7JA?autoplay=1&loop=1", // 22:00
+    "https://www.youtube.com/embed/Rh8x40Vu7JA?autoplay=1&loop=1" // 23:00
   ];
 
 
