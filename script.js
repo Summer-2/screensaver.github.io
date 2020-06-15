@@ -24,7 +24,7 @@ var videoSources = [
     "https://www.youtube.com/embed/FmbKZIcMYTg?autoplay=1&controls=0&loop=1&showinfo=0", // 19:00
     "https://www.youtube.com/embed/q8zkKWaQDD0?autoplay=1&controls=0&loop=1&showinfo=0", // 20:00
     "https://www.youtube.com/embed/q8zkKWaQDD0?autoplay=1&controls=0&loop=1&showinfo=0", // 21:00
-    "https://www.youtube.com/embed/Rh8x40Vu7JA?preload=1&autoplay=1&loop=1&showinfo=0", // 22:00
+    "https://www.youtube.com/embed/Rh8x40Vu7JA?autoplay=1&controls=0&loop=1&showinfo=0", // 22:00
     "https://www.youtube.com/embed/Rh8x40Vu7JA?autoplay=1&controls=0&loop=1&showinfo=0" // 23:00
   ];
 
