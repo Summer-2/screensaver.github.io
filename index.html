@@ -5,18 +5,28 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>screensaver</title>
 	<style>
+		body{
+			background-color: black;
+			margin: 0;
+			padding: 0;
+		}
 	#myVideo {
   	position: absolute;
-  	right: 0;
-  	bottom: 0;
-  	min-width: 100%; 
-  	min-height: 100%;}
+  	left: 0;
+  	top: 0;
+  	width: 100vw; 
+  	height: 100vh;
+		}
+
+		iframe{
+			border: none;
+		}
   	</style>
 </head>
 <body onload="myNewSrc()">
 	<div id="section-title" >
-			<video autoplay muted loop preload="auto" autoplay poster="" id="myVideo">
-			</video>
+			<iframe autoplay loop allow="autoplay; encrypted-media" allowfullscreen id="myVideo">
+			</iframe>
 	</div>
 
 	<script src="script.js"></script>
